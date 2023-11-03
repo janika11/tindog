@@ -1,0 +1,173 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    margin-top:10px;
+}
+.tindogside{
+    font-size:30px;
+    display: flex;
+    align-items:center;
+    margin-right: 300px;
+}
+.tindogside h1{
+    margin-bottom: 10px;
+    margin-top: 40px;
+}
+.linkside a{
+    text-decoration: none;
+    color:aliceblue;
+    margin-right:80px;
+    margin-top: 50px;
+    font-size:20px;
+}
+.linkside{
+    margin-top: 55px;
+}
+.pawsicon{
+    font-size: 30px;
+    margin-left:220px;
+    margin-top: 63px;
+    display: flex;
+}
+
+.text{
+    padding: 40px;
+}
+.image img{
+    transform:rotate(34deg);
+    margin-right: 100px;
+}
+.buttons{
+    display: flex;
+    margin-left:90px;
+
+}
+
+.buttons button{
+    margin:0px 10px;
+margin-left:60px;
+   font-size: 20px;
+   border-radius: 25px;
+   size: 20px;
+   padding:6px;
+   border:2px solid white;
+   
+}
+.buttons button:hover{
+   color:white;
+    background-color:rgb(255, 76, 104);
+    transform:0.1s ;
+    
+}
+ .mainbody{
+        display:flex;
+        justify-content: space-around;
+        margin-top:200px;
+    }
+.title{
+    font-size:75px;
+    padding:50px;
+    margin-bottom: 0px;
+}
+.part2{
+    display:inline-flex;
+    background-color: aliceblue;
+    padding: 150px;
+    justify-content: center;
+    align-items: center;
+    
+    }
+    
+    
+    .icons {
+        text-align: center;
+        margin: 0 20px;
+    }
+    .icons i{
+        font-size: 100px;
+    }
+    .icons h4{
+        font-size: 30px;
+    }
+    .icons p{
+        font-size: 20px;
+    }
+    .imagepanel{
+        display:flex;
+        flex-wrap:wrap;
+        justify-content:space-between;
+        margin:0 auto;
+        padding:30px;
+    }
+    .row1{
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+        align-items: center;
+    }
+    .images{
+        padding: 10px;
+        box-sizing: border-box;
+        width:30%;
+    }
+    .images img{
+        border-radius:5px ;
+        border:2px solid rgb(155, 151, 151);
+        width:30px;
+        height: auto;
+    }
+.h4{
+    margin-left:10px;
+    margin-top:10px;
+}
+.cardspart{
+    background-color:aliceblue;
+    padding:250px;
+    display:flex;
+    justify-content: space-between;
+    max-width: 800px;
+    margin: 0 auto;
+
+}
+.partition{
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #ccc;
+    margin: 10px;
+}
+.cardimage{
+    height: 100px;
+    width: 100px;
+}
+.hi{
+    align-items: center;
+    font-size:22px;
+    background-color: #ffffff;
+    padding:100px;
+}
+.part5{
+    align-items: center;
+    display: flex;
+    padding:80px;
+}
+.hi1{
+    color:white;
+    size:60px;
+}
+.part5buttons{
+    
+    justify-content: space-around;
+    border-radius: 3px;
+    font-size: 50px;
+}
+.part5buttons button:hover{
+    transform: 0.1s;
+    background-color:rgb(255, 76, 104);
+    color:black;
+}
+
+    
